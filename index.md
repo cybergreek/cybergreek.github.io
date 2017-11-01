@@ -34,8 +34,8 @@
 
 - Έχουμε και λέμε... _[Jekyll](https://jekyllrb.com/) για static Html Generator, configuration με [editor on GitHub](https://github.com/cybergreek/cybergreek.github.io/edit/master/index.md) για Markdown/reStructed Text και hosting στο GitHub_. A RE PANARA GAMW TIN TRELA MOU GAMW MESA!!!
 
-                                                                           (　-_･) ︻デ═一  ▸
-                                                                              Cyb3rGr33k
+                                          (　-_･) ︻デ═一  ▸
+                                             Cyb3rGr33k
 
 
 ### ΥΛΙΚΟ ΕΛΕΥΘΕΡΟ ΠΡΟΣ ΑΝΑΠΑΡΑΓΩΓΗ/ΣΧΟΛΙΑΣΜΟ/ΚΡΑΞΙΜΟ ΚΑΤΩ ΑΠΟ ΤΟΥΣ ΟΡΟΥΣ ΤΟΥ _**Creative Commons**_: 
